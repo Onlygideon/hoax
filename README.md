@@ -1,0 +1,15 @@
+# hoax
+
+## This is a product management public API for e-commerce web applications, built majorly using MySQL, node.js, express, sequelize, and postman for API testing.
+
+## This API has endpoints for the following functions:-
+### Add product
+### Fetch all products
+### Fetch products based on name
+### Fetch products based on Id
+### Update product
+### Delete product
+### Add Rating for a product
+### Add Comment for a comment
+### Fetch all ratings for a specific product
+### Fetch all comments for a specific product
