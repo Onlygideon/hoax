@@ -10,6 +10,6 @@
 ### Update product
 ### Delete product
 ### Add Rating for a product
-### Add Comment for a comment
+### Add Comment for a product
 ### Fetch all ratings for a specific product
 ### Fetch all comments for a specific product
