@@ -1,6 +1,6 @@
 # hoax
 
-## This is a product management public API for e-commerce web applications, built majorly using MySQL, node.js, express, sequelize, and postman for API testing.
+## This is a item management public REST API, built majorly using MySQL, node.js, express, sequelize, and postman for API testing.
 
 ## This API has endpoints for the following functions:-
 ### Add product
